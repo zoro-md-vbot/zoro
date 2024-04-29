@@ -8,6 +8,9 @@
 <a href="#"><img title="ZORO_MD_V2" src="https://img.shields.io/badge/ZORO_MD_V2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
+
+
+
 ### SETUP ZORO
 
 1. Scan the QR code
