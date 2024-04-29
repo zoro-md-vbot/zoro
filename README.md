@@ -16,3 +16,10 @@
 1. Scan the QR code
     <br>
 <a href='https://jarvis.lokiser.xyz/' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
+
+
+
+2. Now Deploy
+    <br>
+<a href='https://jarvis.lokiser.xyz/heroku.html' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
